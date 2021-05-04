@@ -1,4 +1,4 @@
-# Basic_HTML_and_JavaScript_1
+# Basic_HTML_and_JavaScript
 
 ## Using Basic HTML and JavaScript
 This repository includes the basic use of HTML and Javascript including: <br>
